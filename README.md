@@ -90,7 +90,7 @@ customer-segmentation/
 │   ├── 07_silhouette_scores.png
 │   ├── 08_scatter_recency_monetary.png
 │   ├── 09_cluster_profile_bars.png
-│   └── 10_segment_donut
+│   └── 10_segment_donut.png
 |
 ├── README.md
 └── requirements.txt
